@@ -1,0 +1,13 @@
+{
+  "tenant": "TechCorp_Bangalore",
+  "server": "Server_2",
+  "cpu": 38,
+  "memory": 86,
+  "latency": 195,
+  "packet_loss": 5,
+  "failed_logins": 11,
+  "health": "Poor",
+  "id": "1795177106",
+  "time_utc": "2026-11-20 12:18:26",
+  "cleaned_log_sent": "User admin login failed, password = ***REDACTED***"
+}
